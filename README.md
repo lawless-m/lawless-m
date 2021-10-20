@@ -5,4 +5,4 @@
 * Programmed in C, C++, Java, VBasic, PHP, Python, Perl, Octave, Forth, Julia, Prolog
 * Embedded stuff with AVR Assembler
 * Hosted on FreeBSD, Plan9, Debian and currently Pop_OS!
-* Now with a BSc in Supply Chain Management and a MSc in Data Science
+* Now with a BSc in Supply Chain Management and an MSc in Data Science
